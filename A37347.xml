@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>English loyalty, or, The case of the oath of faith and allegiance to King William and Queen Mary examined and resolved in a letter from a father to his son, two divines of the Church of England.</title>
+            <author>M. D.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37347</idno>
+            <idno type="STC">Wing D59</idno>
+            <idno type="STC">ESTC R8414</idno>
+            <idno type="EEBO-CITATION">13245189</idno>
+            <idno type="OCLC">ocm 13245189</idno>
+            <idno type="VID">98663</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37347)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98663)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 451:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>English loyalty, or, The case of the oath of faith and allegiance to King William and Queen Mary examined and resolved in a letter from a father to his son, two divines of the Church of England.</title>
+                  <author>M. D.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: M. D.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mary --  II, --  Queen of England, 1662-1694.</term>
+               <term>William --  III, --  King of England, 1650-1702.</term>
+               <term>Great Britain --  History --  Revolution of 1688 --  Sources.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:98663:1"/>
+            <!-- PDF PAGE 129 -->
+            <head>ENGLISH LOYALTY:</head>
+            <head type="sub">OR, The Caſe of the OATH of Faith and Allegiance to King <hi>WIL<g ref="char:EOLhyphen"/>LIAM</hi> and Queen <hi>MARY</hi> examined and reſolved:</head>
+            <head type="sub">IN A Letter from a Father to his Son, two DIVINES of the CHURCH of ENGLAND.</head>
+            <opener>
+               <salute>My Dear Son,</salute>
+            </opener>
+            <p>I AM not ſorry to find in you, and in others of this Nation, a great tenderneſs of Conſcience in relation to Solemn and Publick Oaths, and a reluctancy to take any new ones, which may ſeem to contradict or oppoſe the former. I need not tell you how Sacred Oaths have been amongſt all Civilized Nations, and what reſpect we Chriſtians, and Proteſtants ſhould learn by our late experience; to have for theſe Ties of the Humane Society, theſe Invocations of the Holy Name of God. I could heartily wiſh that the Wiſdom of this preſent King and Parliament would favour the tenderneſs of Scru<g ref="char:EOLhyphen"/>pulous Conſciences where the Government is not likely to be endangered. I am certain this Mode<g ref="char:EOLhyphen"/>ration would be very pleaſing to the whole Nation, and agreeable with the Prince's MOTTO and firſt Promiſe: <hi>The Proteſtant Religion and Liberty, Je Main<g ref="char:EOLhyphen"/>tiendray:</hi> And would be a great Indearment of ſuch whoſe remembrance of duty makes them diſſatisfied, and ſo ſcrupulous, that perhaps no reaſon will con<g ref="char:EOLhyphen"/>vince them. But we muſt leave the management of this, and of all Publick Affairs, and the Methods how to ſecure the Kingdom, to the Great Council of the Nation. My buſineſs at this time, in anſwer to your Requeſt, is to examine, Whether he that hath taken the <hi>Oath of Allegiance and Supremacy</hi> to our for<g ref="char:EOLhyphen"/>mer Kings, can in Conſcience take the preſent Oath that is to be adminiſtred, and what Reaſons may be given for this Compliance: for we muſt ſuppoſe that this Oath is not enjoyned, as ſome do maliciouſly ſurmiſe, on purpoſe to Diſplace the worthy Divines of our Church, that room may be thereby made for ſome of another Conſtitution. But we muſt believe that the Care and Wiſdom of the Parliament will require it, from all who are Intruſted in any Office, for the Publick Security of the King and Kingdom in this Juncture and time of Danger.</p>
+            <p>Now there are two ſorts of Men who are called up<g ref="char:EOLhyphen"/>on to take this Oath: Some who have been formerly Sworn to Late King <hi>Charles</hi> and his Lawful Succeſ<g ref="char:EOLhyphen"/>ſors: Others who have taken the Oaths to King <hi>James</hi> in Perſon while he Governed. The firſt have much more to ſay for themſelves, becauſe this Pre<g ref="char:EOLhyphen"/>ſent King and Queen are, and ought to be looked upon as Lawful Succeſſors, by reaſon of the Late King's Abdication, and the Circumſtances of Religi<g ref="char:EOLhyphen"/>on, and apparent Violation of the fundamental Laws of the Government, <hi>&amp;c.</hi> Therefore their Compli<g ref="char:EOLhyphen"/>ance is but a Repetition and Corroborating of the former Oath, and I ſee no reaſon for ſuch to be ſo Scrupulous as to think their late Obligations to King <hi>James</hi> ought to ban them from ſubmitting to the pre<g ref="char:EOLhyphen"/>ſent Oath. However, if there be any, they will be ſufficiently anſwered in examining the Caſe of the others; which I confeſs looks harder at the firſt Proſpect, but when ſeriouſly conſidered with all the Circumſtances, They, as well as the former, as I judge, may ſafely take this Oath.</p>
+            <p>I <hi>Do ſincerely Promiſe and Swear, that I will be Faith<g ref="char:EOLhyphen"/>ful, and hear true Allegiance to their Majeſties King</hi> WILLIAM <hi>and Queen</hi> MARY. <hi>So help me God.</hi>
+            </p>
+            <p>Firſt, becauſe ſuch Oaths are both Conditional and Temporary: while a King is Governour, while he continues in the Kingdom, and takes care of the pub<g ref="char:EOLhyphen"/>lick Safety; and they are limited by two Circum<g ref="char:EOLhyphen"/>ſtances, of Death and Abdication, if not by three, I mean the apparent overthrow of the Conſtitution of the Government, and the viſible ſeeking of the ruine of a Nation. As it cannot be imagined, that if a Prince be in his Grave, that our Oath binds us to be faithful to a dead Corps, So neither can it be thought that we are bound to ſuch a one who is dead in Law, who hath rendered himſelf uncapable to govern us by a voluntary and unneceſſary flight, or a renunciation. It had been judged a very moderate courſe to have ſent an Invitation to return, but this is liable to great and many exceptions, and cannot agree with the Publick ſafety, to which the Parliament have had chiefly an eye in all their Proceedings. Indeed we were bound to the late King <hi>James</hi> while he ſate upon the Throne, and this Obligation did oblige us to behave our ſelves in word and deed as faithful Subjects to him, and his Authority. But now his voluntary abſence, as it makes him unable to Protect us, it frees the Subject from that Duty and Allegiance which we are otherwiſe bound to render. And if this be granted, that we are diſcharged from one, we may ſafely, and ought to bind our ſelves to ano<g ref="char:EOLhyphen"/>ther Lawfully Poſſeſſed of the Crown by the gene<g ref="char:EOLhyphen"/>ral conſent of the Nation.</p>
+            <p>Secondly. This is a Maxime recommended by St. <hi>Paul, That whatſoever we do, we ſhould eye the Glory of God,</hi> and by conſequence, the preſervation of Religion. I need not mind you in what danger Religion was in under the late King <hi>James,</hi> notwith<g ref="char:EOLhyphen"/>ſtanding his frequent Promiſes, what violent efforts were made to bring in the Abominations of <hi>Rome:</hi> How ſedulous the Prieſts and Jeſuits were, to in<g ref="char:EOLhyphen"/>ſnare and overthrow our Church, how reſtleſs they are like to be if they have ſuch another advantage over us. And can any man think himſelf bound ſo viſibly to oppoſe the Glory of God in this Nation, by encouraging the return of Popery, which they muſt needs do, who think themſelves unſeparably, and indiſpenſably bound by their Oaths to King <hi>James,</hi> and refuſe this Oath to a Proteſtant KING, and the next Succeſſor.</p>
+            <p>Thirdly, The Publick Good is ſo indiſpenſably to be minded in all our Actions, as well as the Glory of God, that no former Oath can poſſibly excuſe us from either. Now let any man of Reaſon conſider, which makes moſt for the Glory of God, and the Publick Good, the taking or refuſing of the Oath. The one ſhows our diſlike of the Providence of God, and wonderful change which he hath brought to paſs
+<pb n="2" facs="tcp:98663:2"/>
+               <!-- PDF PAGE 130 -->without our concurrence: The other diſcovers our ſubmiſſion to his will. The one beſpeaks us as un<g ref="char:EOLhyphen"/>grateful as the <hi>Iſraelites,</hi> freed from the <hi>Egyptian</hi> Rondage, who meditated a return. The other de<g ref="char:EOLhyphen"/>clares us to be willing to aſſiſt the Providence of Hea<g ref="char:EOLhyphen"/>ven, and to encourage the wiſdom of our Repre<g ref="char:EOLhyphen"/>ſentatives. The one is an Invitation to Popery and Slavery to return. The other is a publick Bar and Prohibition, when the World ſhall underſtand how unanimous we are in our Obedience to our preſent King and Queen, without longing for the late Gar<g ref="char:EOLhyphen"/>lick and Onions. Indeed our Caſe is much like that of the <hi>Iſraelites</hi> Deliverance, effected by the Power of Heaven; only this advantage and difference we have, the <hi>Iſraelites</hi> were tranſported beyond the Seas, and out of a hard Slavery, they were brought to ſuffer the Inconveniencies of a Barren Wilderneſs, and encounter with Labour, Hunger, and Thirſt. But God's goodneſs hath carried over our <hi>Egyptians</hi> beyond the Seas, and cauſed us to remain in the Land of <hi>Goſhen,</hi> in the full enjoyment of Plenty, Eaſe, and Safety: and ſhall we be ſuch Madmen to In<g ref="char:EOLhyphen"/>vite them over to oppreſs us again? ſhall we think our ſelves ſo bound to our former Task-Maſters, as to be obliged, in oppoſition to God and his Provi<g ref="char:EOLhyphen"/>dence, to encourage them to a return? St. <hi>Peter</hi> was freed by an Angel, as we are, and did his Duty or Allegiance bind him to go back into Priſon, or into the hands of <hi>Herod</hi>'s Guards? If our Deliverance had not been as viſibly the hand of God as that of St. <hi>Peter,</hi> or the <hi>Iſraelites,</hi> there might be more co<g ref="char:EOLhyphen"/>lour for an exception, or for minding of our former Obligations: but we cannot bear Allegiance to King <hi>James</hi> without being injurious to God, Enemies of his Glory, Adverſaries to Religion, and diſaffected to the Happineſs and Proſperity of the Nation.</p>
+            <p>We commonly alledge in other Caſes the Primi<g ref="char:EOLhyphen"/>tive Chriſtians, and their obedience to Magiſtrates, to be the Standard and Rule of the Church of <hi>Eng<g ref="char:EOLhyphen"/>land:</hi> what would they have done if <hi>Julian</hi> the A<g ref="char:EOLhyphen"/>poſtate had abdicated the Imperial Crown, and by flight with his Idolaters and Sorceres into <hi>Perſia,</hi> or other remote Countries, left the Throne vacant? We may eaſily gueſs by the Chriſtians rude and un<g ref="char:EOLhyphen"/>civil Speeches of him alive and dead. I hope none of our Church and Nation will be guilty of ſuch diſ<g ref="char:EOLhyphen"/>graceful carriage to our Late King. But however, let us ſo far imitate the firſt Chriſtians, as to be willing to vindicate our ſelves, and Religion from the ſame apprehenſions of danger as they were in, according to the late Example of the Proteſtant Kingdom of <hi>Sweden</hi> whoſe Condition was Paral<g ref="char:EOLhyphen"/>lel to ours, when <hi>Sigiſmund</hi> a Papiſt came to the Crown, and endeavoured to introduce the Pope and his Maſs into that Chriſtian Realm.</p>
+            <p>But what did we Swear to King <hi>James?</hi> &amp; what are we required to Swear to K. <hi>William</hi> and Q. <hi>Mary?</hi> Faith and Allegiance. And who ſees not but theſe are the returns of Lawful Protection and Government. Why may we not be bound to both in their ſeveral times and Reigns? The Loyalty between Subject and Prince, is not like that between Man and Wife, Death only, and not Abſence, diſſolves the Union, and gives Licenſe for another Matrimony. But in caſe of Op<g ref="char:EOLhyphen"/>preſſion, a Wife may ſue for a Separation, and ob<g ref="char:EOLhyphen"/>tain it by Law. And why may we not in <hi>France</hi> bear true Faith and Allegiance to King <hi>Lewis,</hi> and in <hi>England</hi> be as Faithful and Loyal to King <hi>William</hi> and Queen <hi>Mary,</hi> whilſt we act nothing as a breach of our Faith againſt either, and we are in both King<g ref="char:EOLhyphen"/>doms at ſeveral times. Suppoſe the Maſter of a Ship is reſolved to Shipwrack his Veſſel againſt the Rocks, or to deliver his Company Slaves to the <hi>Turks,</hi> ſhall not the Company take from him the Helm, and conſult and provide for their own pre<g ref="char:EOLhyphen"/>ſervation? or ſuppoſe that in a diſguſt he leaves his Ship and Aſſociates, to fly to the ſuccours of Foreign<g ref="char:EOLhyphen"/>ers, that at laſt he might have his purpoſe; would any of them be ſo ſimple as to joyn with, and own him as their Commander, while he ſeeks their deſtruction? All Societies are of a greater value, and we are to have a more particular reſpect for the common good, than for any private intereſt.</p>
+            <p>What hath the Nation done againſt their former Faith and Allegiance? I do not ſpeak of ſuch as were under the late King's pay. We were not obliged to fight for him, and to hold him upon his Throne a<g ref="char:EOLhyphen"/>gainſt his will; neither could we in Conſcience move for him, becauſe of the former Irregularities, Violations of our Laws, and danger of our Religion. We were not bound to ſacrifice our Lives, nor be Martyrs for K. <hi>Jame</hi>'s his Cauſe. Whiles we were quiet and peaceable, and acted nothing againſt the Laws and his Government, we did bear true Faith and Allegiance to him. And may we not do ſo now? May we not bear the ſame Faith and Allegiance to King <hi>William</hi> and Queen <hi>Mary?</hi> And is it not reaſo<g ref="char:EOLhyphen"/>nable that we ſhould be as well bound to them as they are to us, by their Coronation Oath. Our Go<g ref="char:EOLhyphen"/>vernours being changed by the conſent of the States of the Realm, not by Tumult or Popular fury, but by the Wiſdom of the Great Council, why may we not in theſe circumſtances, promiſe to be as Faithful Subjects to King <hi>William</hi> and Queen <hi>Mary,</hi> as they have promiſed to be good Rulers to us.</p>
+            <p>The Subjects Allegiance, tho' ſome may call na<g ref="char:EOLhyphen"/>tural, it hath always a reſpect to the Laws in being, and by conſequence to the compact and agreement between Prince and People. And the ſame Laws are now in force to bind us to be true to <hi>K. William</hi> and <hi>Q. Mary,</hi> as were to oblige us to be Loyal to the late King <hi>James,</hi> and ſhall we ſcruple to promiſe to be obedient to theſe Laws, by which we hold our E<g ref="char:EOLhyphen"/>ſtates, enjoy our Lives, Liberties and Religion? It is a piece of ingratitude, to receive from King <hi>William</hi> and Queen <hi>Mary,</hi> the benefit of Protection and Free<g ref="char:EOLhyphen"/>dom, and to refuſe to ſwear to them Faith an Al<g ref="char:EOLhyphen"/>legiance.</p>
+            <p>And ſeeing there is a particular hand of Provi<g ref="char:EOLhyphen"/>vidence, that hath crowned their Endeavours in this ſtrange Diſpenſation with wonderful Succeſs, Let not us of the Clergy, the Inſtructers of the Nation, the directors of Conſciences, be retro<g ref="char:EOLhyphen"/>grade to the wiſe Council of the Nobility and Gentry, and oppoſe the Confirmation of that Government which is likely to exclude Popery for ever from us, but let me perſwade you my Son, and my worthy Friends, Doctor <hi>S.</hi> Doctor <hi>M.</hi> and others to whom you may communicate theſe Lines, chearfully to ſubmit, and by your Example to encourage others to take the Oath now to be impoſed upon us. So with my Prayers, and Bleſſing, I reſt,</p>
+            <closer>
+               <signed>Your Loving Father, <hi>M. D.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Baldwin,</hi> near the <hi>Black Bull</hi> in the <hi>Old-Baily.</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
